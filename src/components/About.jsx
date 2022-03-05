@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/About.css"
+import "../css/about.css"
 import aboutImage from "../imgs/doisIrmao.jpg"
 import {FaAward} from "react-icons/fa"
 import {FiUsers} from "react-icons/fi"
