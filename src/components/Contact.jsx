@@ -1,9 +1,12 @@
 import React from "react";
 import "../css/Contact.css"
 
-const Contact = () =>{
+const Contact = () => {
     return (
-        <div>Contact</div>
+        <section id="contact">
+            Contact
+
+        </section>
     )
 }
 

@@ -1,9 +1,11 @@
 import React from "react";
 import "../css/Footer.css"
 
-const Footer = () =>{
+const Footer = () => {
     return (
-        <div>Footer</div>
+        <section>        
+            <div>Footer</div>
+        </section>
     )
 }
 
