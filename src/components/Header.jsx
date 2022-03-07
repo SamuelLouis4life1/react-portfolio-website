@@ -1,7 +1,7 @@
 import React from "react";
-import "../css/header.css"
+import "../css/header.css";
 import CTA from "./CTA";
-import logo_img from "../imgs/logo.jpg"
+import logo_img from "../imgs/logo.jpg";
 import HeaderSocials from "./HeaderSocials";
 
 
