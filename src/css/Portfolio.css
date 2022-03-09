@@ -32,6 +32,10 @@
     margin-bottom: 1rem;
 }
 
+.portfolio_images {
+    height: 250px;
+}
+
 /* ===================== Media Queries (Medium Devices) ===================== */
 @media screen and (max-width: 1024px) {
     .portfolio_container {
