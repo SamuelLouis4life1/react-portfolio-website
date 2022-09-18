@@ -27,6 +27,7 @@ You may also see any lint errors in the console.
 
 ![Footer](https://user-images.githubusercontent.com/43389948/189248357-54176eb1-28c2-49a4-941c-4f6a384b2169.png)
 
+![breast-cancer](https://user-images.githubusercontent.com/43389948/190929374-54c0c316-ace8-4dd3-afeb-08c9f2416816.jpg)
 
 ### `npm test`
 
